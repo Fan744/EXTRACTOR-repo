@@ -1,4 +1,4 @@
 .env
-Downloader/sumit.session-journal
-Downloader/sumit.session
 __pycache__/
+*.pyc
+config.py  # Sensitive data वाला
