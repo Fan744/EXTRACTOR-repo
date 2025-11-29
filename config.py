@@ -4,8 +4,8 @@ from os import getenv
 # =================== API CONFIG ===================
 API_ID = int(getenv("API_ID", "30157302"))
 API_HASH = getenv("API_HASH", "0052039fb2fca727868d0228cdaad569")
-BOT_TOKEN = getenv("BOT_TOKEN", "8211241815:AAHfRY0Y13AeZvaQcfl5Y9njvi31B22fR-I")
-BOT_USERNAME = getenv("BOT_USERNAME", "@Dghddhsbsbdbsh_bot")  # ADD THIS
+BOT_TOKEN = getenv("BOT_TOKEN", "7652541867:AAGLI0feS-21ctCZ-0KRoJUZd6yScVsGwXQ")
+BOT_USERNAME = getenv("BOT_USERNAME", "@Coursebot16_bot")  # ADD THIS
 
 # =================== USER CONFIG ===================
 OWNER_ID = int(getenv("OWNER_ID", "6940228989"))
